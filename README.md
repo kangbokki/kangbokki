@@ -1,4 +1,4 @@
-github-redme-stats.vercel.app/api/username=kangbokki&show_icons=ture&theme=dark
+[![github stats](github-redme-stats.vercel.app/api/username=kangbokki&show_icons=ture&theme=dark)]
 
 
 <div align=center>
