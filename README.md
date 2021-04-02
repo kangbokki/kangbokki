@@ -26,6 +26,8 @@
  * [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)  
  * [shields](https://shields.io/)
  * [icons](https://simpleicons.org/)
+ * [sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
+ * [flowchart](http://flowchart.js.org/)
 
   
 ### :cyclone:Etc
