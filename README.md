@@ -11,7 +11,7 @@
 </div>
 <div align='center'>
 
-![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangbokki&langs_count=5&theme=dark)
+![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangbokki&langs_count=5&theme=dark&layout=compact)
 </div>
 
 ### :cyclone:Skill
