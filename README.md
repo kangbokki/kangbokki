@@ -1,5 +1,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=kangbokki&show_icons=ture&theme=dark)
-![github languages](github-readme-stats.vercel.app/api/top-langs/?username=kangbokki&langs_count=5&theme=dark)
+![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangbokki&langs_count=5&theme=dark)
 
 ###
 
@@ -7,6 +7,6 @@
 
 
 ###
-<div align='center'>
+<div align=center>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangbokki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 </div>
