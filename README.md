@@ -4,7 +4,7 @@
 
 
 
-### :cyclone:Status
+### :cyclone: Github Stats
 <div align='center'>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kangbokki&show_icons=ture&theme=dark)
@@ -14,14 +14,14 @@
 ![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangbokki&langs_count=5&theme=dark&layout=compact)
 </div>
 
-### :cyclone:Skill
+### :cyclone: Skill
 
 ![Mozilla Add-on](https://img.shields.io/amo/stars/Mozilla?color=007396&label=java&logo=java)
 ![Mozilla Add-on](https://img.shields.io/amo/stars/Mozilla?color=F7DF1E&label=javascript&logo=javascript)
 
 
 
-### :cyclone:Link
+### :cyclone: Link
  * [hits](https://hits.seeyoufarm.com/)  
  * [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)  
  * [shields](https://shields.io/)
@@ -30,7 +30,7 @@
  * [flowchart](http://flowchart.js.org/)
 
   
-### :cyclone:Etc
+### :cyclone: Etc
 <div align='center'>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangbokki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
