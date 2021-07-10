@@ -28,10 +28,10 @@
  * [icons](https://simpleicons.org/)
  * [sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
  * [flowchart](http://flowchart.js.org/)
-
   
 ### :cyclone: Etc  
  * [Create App](https://createapp.dev/)  
+ * [explaninshell](https://explainshell.com/)
 
 <div align='center'>
 
