@@ -28,7 +28,7 @@
  * [icons](https://simpleicons.org/)
  * [sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
  * [flowchart](http://flowchart.js.org/)
- * gitmoji(https://gitmoji.dev/)
+ * [gitmoji](https://gitmoji.dev/)
   
 ### :cyclone: Etc  
  * [Create App](https://createapp.dev/)  
