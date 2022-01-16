@@ -15,10 +15,8 @@
 </div>
 
 ### :cyclone: Skill
-Mozilla
-![Mozilla Add-on](https://img.shields.io/amo/stars/Mozilla?color=007396&label=java&logo=java)
-![Mozilla Add-on](https://img.shields.io/amo/stars/Mozilla?color=F7DF1E&label=javascript&logo=javascript)
-![java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-green?style=flat-square&logo=java)
+![java](https://img.shields.io/badge/java-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?style=flat-square&logo=java)
+![javascript](https://img.shields.io/badge/javascript-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-yellow?style=flat-square&logo=javascript)
 
 
 
