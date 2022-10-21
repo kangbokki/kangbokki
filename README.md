@@ -26,7 +26,9 @@
  * [shields](https://shields.io/)
  * [icons](https://simpleicons.org/)
  * [sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
+ * [draw-sequence](https://sequencediagram.org/)
  * [flowchart](http://flowchart.js.org/)
+ * [flexboxfroggy](https://flexboxfroggy.com/#ko)
  * [gitmoji](https://gitmoji.dev/)
  * [markdown](https://www.markdownguide.org/)
   
